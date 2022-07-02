@@ -39,7 +39,7 @@
 
 </section>
 
-<!----------------about us----------------->
+
 
 <section class="about-us">
     <div class="row">
